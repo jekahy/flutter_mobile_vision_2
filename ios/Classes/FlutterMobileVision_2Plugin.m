@@ -1,4 +1,4 @@
-#import "FlutterMobileVisionPlugin.h"
+#import "FlutterMobileVision_2Plugin.h"
 
 @implementation FlutterMobileVisionPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
